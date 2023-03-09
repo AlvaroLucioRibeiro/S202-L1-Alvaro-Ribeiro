@@ -1,0 +1,1 @@
+-- Ao subir a pasta para o github, a pasta .venv não fez upload por estar vazia, crie uma pasta no VSCode .venv 
